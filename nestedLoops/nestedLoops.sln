@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nestedLoops", "nestedLoops.csproj", "{77EB2C3D-0CBD-48FB-96DB-BB7471A499BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Generator", "..\Password Generator\Password Generator.csproj", "{2E5D8FB3-2613-4392-A6AD-B0A46B7F8FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77EB2C3D-0CBD-48FB-96DB-BB7471A499BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EB2C3D-0CBD-48FB-96DB-BB7471A499BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EB2C3D-0CBD-48FB-96DB-BB7471A499BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EB2C3D-0CBD-48FB-96DB-BB7471A499BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5D8FB3-2613-4392-A6AD-B0A46B7F8FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5D8FB3-2613-4392-A6AD-B0A46B7F8FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5D8FB3-2613-4392-A6AD-B0A46B7F8FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5D8FB3-2613-4392-A6AD-B0A46B7F8FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB54ECF-2174-4C60-B855-6475D2AA1E73}
+	EndGlobalSection
+EndGlobal

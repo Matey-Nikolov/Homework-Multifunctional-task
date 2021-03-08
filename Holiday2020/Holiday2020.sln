@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Holiday2020", "Holiday2020.csproj", "{59CDB934-7A6D-4F88-A45B-76E579D428D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "holiday1", "..\holiday1\holiday1.csproj", "{EEAEC936-09BE-4FE4-960C-4AF8A207C6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterbyAge", "..\FilterbyAge\FilterbyAge.csproj", "{84A9DC96-F15E-4450-B200-B88DFC6D971D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59CDB934-7A6D-4F88-A45B-76E579D428D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CDB934-7A6D-4F88-A45B-76E579D428D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CDB934-7A6D-4F88-A45B-76E579D428D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CDB934-7A6D-4F88-A45B-76E579D428D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAEC936-09BE-4FE4-960C-4AF8A207C6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAEC936-09BE-4FE4-960C-4AF8A207C6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAEC936-09BE-4FE4-960C-4AF8A207C6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAEC936-09BE-4FE4-960C-4AF8A207C6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A9DC96-F15E-4450-B200-B88DFC6D971D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A9DC96-F15E-4450-B200-B88DFC6D971D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A9DC96-F15E-4450-B200-B88DFC6D971D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A9DC96-F15E-4450-B200-B88DFC6D971D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE53D569-1F31-47C1-9957-879AF9E82109}
+	EndGlobalSection
+EndGlobal

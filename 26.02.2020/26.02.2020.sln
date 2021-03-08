@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.02.2020", "26.02.2020.csproj", "{3208D872-2B18-4689-BB68-709C8BD1DC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number 100, 200", "..\Number 100, 200\Number 100, 200.csproj", "{659C4060-553E-4513-99F5-34A4E0A06DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Words", "..\Equal Words\Equal Words.csproj", "{5B2638B0-C685-4EDC-8D52-34F5C74C76CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area of Figuresd", "..\Area of Figuresd\Area of Figuresd.csproj", "{A2298DB9-0BBF-40A0-8D12-FED1CCA3099F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Equal Numbers", "..\3 Equal Numbers\3 Equal Numbers.csproj", "{65BFD789-58CF-4FF4-8B8D-95559D7DDE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toy Shop", "..\Toy Shop\Toy Shop.csproj", "{5BC4F606-D779-402E-B637-DFED62143614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3208D872-2B18-4689-BB68-709C8BD1DC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3208D872-2B18-4689-BB68-709C8BD1DC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3208D872-2B18-4689-BB68-709C8BD1DC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3208D872-2B18-4689-BB68-709C8BD1DC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659C4060-553E-4513-99F5-34A4E0A06DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659C4060-553E-4513-99F5-34A4E0A06DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659C4060-553E-4513-99F5-34A4E0A06DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659C4060-553E-4513-99F5-34A4E0A06DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2638B0-C685-4EDC-8D52-34F5C74C76CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2638B0-C685-4EDC-8D52-34F5C74C76CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2638B0-C685-4EDC-8D52-34F5C74C76CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2638B0-C685-4EDC-8D52-34F5C74C76CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2298DB9-0BBF-40A0-8D12-FED1CCA3099F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2298DB9-0BBF-40A0-8D12-FED1CCA3099F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2298DB9-0BBF-40A0-8D12-FED1CCA3099F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2298DB9-0BBF-40A0-8D12-FED1CCA3099F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BFD789-58CF-4FF4-8B8D-95559D7DDE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BFD789-58CF-4FF4-8B8D-95559D7DDE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BFD789-58CF-4FF4-8B8D-95559D7DDE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BFD789-58CF-4FF4-8B8D-95559D7DDE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC4F606-D779-402E-B637-DFED62143614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC4F606-D779-402E-B637-DFED62143614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC4F606-D779-402E-B637-DFED62143614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC4F606-D779-402E-B637-DFED62143614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10EC821D-E155-42A7-8A5F-A493D3F96FD9}
+	EndGlobalSection
+EndGlobal

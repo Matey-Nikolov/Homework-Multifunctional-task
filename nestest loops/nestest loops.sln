@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nestest loops", "nestest loops.csproj", "{63A41D15-3C98-491D-BA8C-E1456E2D7E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A41D15-3C98-491D-BA8C-E1456E2D7E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A41D15-3C98-491D-BA8C-E1456E2D7E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A41D15-3C98-491D-BA8C-E1456E2D7E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A41D15-3C98-491D-BA8C-E1456E2D7E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D3ECAA-5AF3-4E45-BCE3-9BCA69576585}
+	EndGlobalSection
+EndGlobal

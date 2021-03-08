@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8 Class - Exam - 10 June 2020", "8 Class - Exam - 10 June 2020.csproj", "{7638DF70-90E1-4690-AE83-DD314E4A9CB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beehive Role", "..\Beehive Role\Beehive Role.csproj", "{E102207C-5924-43AF-9E7D-E7F3C5E2425D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Honey Harvest", "..\Honey Harvest\Honey Harvest.csproj", "{CA7FBA5B-26AC-4796-8F5E-CCDFDE65D50F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beehive Defense", "..\Beehive Defense\Beehive Defense.csproj", "{7B222958-B635-4B16-A0BB-B864C9F217E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey Winter", "..\Honey Winter\Honey Winter.csproj", "{0CBBCC2A-4C6A-481F-B39B-C1D9F0BDD106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beehive Population", "..\Beehive Population\Beehive Population.csproj", "{EFF3F5E4-7B2D-450D-AACB-7673520F57CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7638DF70-90E1-4690-AE83-DD314E4A9CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7638DF70-90E1-4690-AE83-DD314E4A9CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7638DF70-90E1-4690-AE83-DD314E4A9CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7638DF70-90E1-4690-AE83-DD314E4A9CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E102207C-5924-43AF-9E7D-E7F3C5E2425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E102207C-5924-43AF-9E7D-E7F3C5E2425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E102207C-5924-43AF-9E7D-E7F3C5E2425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E102207C-5924-43AF-9E7D-E7F3C5E2425D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7FBA5B-26AC-4796-8F5E-CCDFDE65D50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7FBA5B-26AC-4796-8F5E-CCDFDE65D50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7FBA5B-26AC-4796-8F5E-CCDFDE65D50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7FBA5B-26AC-4796-8F5E-CCDFDE65D50F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B222958-B635-4B16-A0BB-B864C9F217E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B222958-B635-4B16-A0BB-B864C9F217E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B222958-B635-4B16-A0BB-B864C9F217E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B222958-B635-4B16-A0BB-B864C9F217E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBBCC2A-4C6A-481F-B39B-C1D9F0BDD106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBBCC2A-4C6A-481F-B39B-C1D9F0BDD106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBBCC2A-4C6A-481F-B39B-C1D9F0BDD106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBBCC2A-4C6A-481F-B39B-C1D9F0BDD106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF3F5E4-7B2D-450D-AACB-7673520F57CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF3F5E4-7B2D-450D-AACB-7673520F57CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF3F5E4-7B2D-450D-AACB-7673520F57CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF3F5E4-7B2D-450D-AACB-7673520F57CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C6894A-0727-473B-A386-6705411DBEEF}
+	EndGlobalSection
+EndGlobal
