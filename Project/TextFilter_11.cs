@@ -11,7 +11,7 @@ namespace Project
             // 11
             //
 
-            Console.Write("Enter a bane words using a comma: ");
+            Console.Write("Enter a ban words using a comma: ");
             string[] bannedWords = Console.ReadLine()
                 .Split(", ", StringSplitOptions.RemoveEmptyEntries);
 
