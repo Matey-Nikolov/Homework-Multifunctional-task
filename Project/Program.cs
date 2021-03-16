@@ -163,7 +163,7 @@ namespace Project
                     Console.WriteLine("----------------");
                     break;
                 case 23:
-                    WordsSort();
+                    object p = WordsSort();
                     Console.WriteLine("----------------");
                     break;
                 case 24:
@@ -220,7 +220,7 @@ namespace Project
         }
     }
 
-    public static void HTMLNoTags()
+    public void HTMLNoTags()
     {
         Console.Write("Enter a HTML with tags: ");
         string content = Console.ReadLine();
