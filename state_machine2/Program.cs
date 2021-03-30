@@ -7,9 +7,12 @@
 
         static void Main()
         {
+            //  С риск от това да ми кажете, че съм преписал от някого
+            // ще я пратя. Който е слушал в час и си е писал би трябвало да я има.
 
-            Console.WriteLine(FindNano("esfsjnfkNNANOwd"));
-            Console.WriteLine(CountNano("esfsjnfkNANOijnNANO".ToUpper()));
+            string text = Console.ReadLine().ToUpper();
+            Console.WriteLine(FindNano(text));
+            Console.WriteLine(CountNano(text));
         }
 
         static bool FindNano(string text)
@@ -22,33 +25,23 @@
                 {
                     case State.NULL:
                         if (ch == 'N')
-                        {
                             state = State.N;
-                        }
                         break;
                     case State.N:
                         if (ch == 'A')
-                        {
                             state = State.NA;
-                        }
                         else if (ch == 'N')
                         {
                             // same state
                         }
                         else
-                        {
                             state = State.NULL;
-                        }
                         break;
                     case State.NA:
                         if (ch == 'N')
-                        {
                             state = State.NAN;
-                        }
                         else
-                        {
                             state = State.NULL;
-                        }
                         break;
                     case State.NAN:
                         if (ch == 'O')
@@ -57,9 +50,7 @@
                             return true;
                         }
                         else
-                        {
                             state = State.NULL;
-                        }
                         break;
                 }
             }
@@ -77,33 +68,23 @@
                 {
                     case State.NULL:
                         if (ch == 'N')
-                        {
                             state = State.N;
-                        }
                         break;
                     case State.N:
                         if (ch == 'A')
-                        {
                             state = State.NA;
-                        }
                         else if (ch == 'N')
                         {
                             // same state
                         }
                         else
-                        {
                             state = State.NULL;
-                        }
                         break;
                     case State.NA:
                         if (ch == 'N')
-                        {
                             state = State.NAN;
-                        }
                         else
-                        {
                             state = State.NULL;
-                        }
                         break;
                     case State.NAN:
                         if (ch == 'O')
@@ -112,23 +93,15 @@
                             count++;
                         }
                         else if (ch == 'N')
-                        {
                             state = State.N;
-                        }
                         else
-                        {
                             state = State.NULL;
-                        }
                         break;
                     case State.NANO:
                         if (ch == 'N')
-                        {
                             state = State.N;
-                        }
                         else
-                        {
                             state = State.NULL;
-                        }
                         break;
                 }
             }
