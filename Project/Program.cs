@@ -19,7 +19,7 @@ namespace Project
                 Console.WriteLine("5 - CountSubstring."); // Ok
                 Console.WriteLine("6 - UpCaseTag."); // Ok
                 Console.WriteLine("7 - LongString."); // Ok
-                                                      // class
+                                                      
                 Console.WriteLine("8 - Unicode."); // OK
                 Console.WriteLine("9 - CodingGivenCipher."); // Ok
                 Console.WriteLine("10 - ExtractText."); // OK
@@ -35,7 +35,7 @@ namespace Project
                 Console.WriteLine("19 - RetrieveEmails."); // Ok
                 Console.WriteLine("20 - PrintDateCanada."); // Ok
 
-                Console.WriteLine("21 - Palindromes."); // No
+                Console.WriteLine("21 - Palindromes."); // Ok
                 Console.WriteLine("22 - lettersSort."); // Ok
                 Console.WriteLine("23 - WordsSort."); // Ok
                 Console.WriteLine("24 - ReplaceChar."); // OK
