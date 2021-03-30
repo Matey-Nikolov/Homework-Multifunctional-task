@@ -8,7 +8,7 @@ namespace Project
     class Class_letter
     {
         
-        public static void lettersSort()
+        public void lettersSort()
         {
             // 22
             //
@@ -36,7 +36,7 @@ namespace Project
 
             Console.WriteLine("All letters and how many times they occur.");
             foreach (var item in kvp
-                .OrderByDescending(x => x.Key))
+                .OrderBy(x => x.Key))
                 Console.WriteLine($"{item.Key} - {item.Value}");
         }
     }

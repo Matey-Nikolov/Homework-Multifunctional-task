@@ -11,13 +11,13 @@ namespace Project
         {
             Console.Write("Wtrite date: ");
             int[] firstDate = Console.ReadLine()
-                .Split(".", StringSplitOptions.RemoveEmptyEntries)
+                .Split(":", StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
             Console.Write("Wtrite second date: ");
             int[] secondtDate = Console.ReadLine()
-                .Split(".", StringSplitOptions.RemoveEmptyEntries)
+                .Split(":", StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 

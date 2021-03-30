@@ -1,20 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace Project
 {
     class UpCaseTag_6
     {
+        
         public string UpText()
         {
+            
             // 6
             //"We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else."
             Console.WriteLine("Write a text with '<upcase>yellow submarine</upcase>': ");
             string text = Console.ReadLine();
-
+            
             string cap = " ";
-
+            
             int openTag = text.IndexOf("<upcase>");
             int closeTag = text.IndexOf("</upcase>");
 
@@ -29,5 +32,6 @@ namespace Project
             }
             return text;
         }
+        
     }
 }
